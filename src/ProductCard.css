@@ -1,0 +1,8 @@
+.productCard {
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.productCard > img {
+    width: 200px;
+}
