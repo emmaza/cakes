@@ -1,0 +1,7 @@
+.about {
+    display: inline-flexbox;
+    align-items: center;
+    padding-inline: 200px;
+    padding-bottom: 50px;
+
+}

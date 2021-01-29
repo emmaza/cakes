@@ -1,8 +1,12 @@
 .productCard {
     margin-bottom: 40px;
     width: 270px;
+    margin: auto;
 }
 
 .productCard > img {
     width: 200px;
+    border-color: rgba(255, 255, 255, 0.911);
+    border-radius: 10px;
+    border-width: 50px;
 }

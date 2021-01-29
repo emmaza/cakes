@@ -13,7 +13,7 @@ function Header() {
         <p>简介 About</p>
       </div>
       <div className="header__right">
-        {'   '}
+        <p>social media</p>
       </div>
     </div>
   );
