@@ -1,4 +1,6 @@
 .products {
     display: flex;
-    padding: 200px;
+    padding-inline: 200px;
+    padding-block: 50px;
+    margin: auto;
 }

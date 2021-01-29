@@ -1,7 +1,7 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding: 20px;
   position: sticky;
   top: 0;
@@ -9,21 +9,21 @@
   background-color: white;
 }
 
-.header__logo {
-/*   height: 25px;   
-  object-fit: contain;*/
-  margin-left: 200px;
-}
+/* .header__logo {
+  height: 25px;   
+  object-fit: contain;
+} */
 
 .header__center {
+  font-weight: bold;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin-right: 200px;
 }
 
 .header__center > p {
-  margin-right: 40px;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
 }
 
 
