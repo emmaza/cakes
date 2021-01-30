@@ -8,9 +8,9 @@ function Header() {
         <h1 className="header__logo">Cakes</h1>
       </div>
       <div className="header__center">
-        <p>产品及价格 Products</p>
-        <p>购买方式 Order</p>
-        <p>简介 About</p>
+        <h3> Products</h3>
+        <h3> Order</h3>
+        <h3> About</h3>
       </div>
       <div className="header__right">
         <p>social media</p>
