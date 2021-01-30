@@ -1,6 +1,6 @@
 import React from 'react';
 import ProductCard from './ProductCard';
-import img1 from './images/IMG_8647.JPG';
+import img1 from '../images/IMG_8647.JPG';
 import './Products.css';
 
 function Products() {
