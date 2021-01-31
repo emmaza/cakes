@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cakes/static/css/main.6c5f0488.chunk.css",
-    "main.js": "/cakes/static/js/main.f6dfb71c.chunk.js",
-    "main.js.map": "/cakes/static/js/main.f6dfb71c.chunk.js.map",
+    "main.css": "/cakes/static/css/main.651896c2.chunk.css",
+    "main.js": "/cakes/static/js/main.959c7b24.chunk.js",
+    "main.js.map": "/cakes/static/js/main.959c7b24.chunk.js.map",
     "runtime-main.js": "/cakes/static/js/runtime-main.fea04d19.js",
     "runtime-main.js.map": "/cakes/static/js/runtime-main.fea04d19.js.map",
     "static/js/2.6405c48a.chunk.js": "/cakes/static/js/2.6405c48a.chunk.js",
@@ -10,15 +10,17 @@
     "static/js/3.20a26b35.chunk.js": "/cakes/static/js/3.20a26b35.chunk.js",
     "static/js/3.20a26b35.chunk.js.map": "/cakes/static/js/3.20a26b35.chunk.js.map",
     "index.html": "/cakes/index.html",
-    "static/css/main.6c5f0488.chunk.css.map": "/cakes/static/css/main.6c5f0488.chunk.css.map",
+    "static/css/main.651896c2.chunk.css.map": "/cakes/static/css/main.651896c2.chunk.css.map",
     "static/js/2.6405c48a.chunk.js.LICENSE.txt": "/cakes/static/js/2.6405c48a.chunk.js.LICENSE.txt",
     "static/media/IMG_8647.8fbc2aa7.JPG": "/cakes/static/media/IMG_8647.8fbc2aa7.JPG",
-    "static/media/cover_small.d77c65e0.jpg": "/cakes/static/media/cover_small.d77c65e0.jpg"
+    "static/media/bdaycake.d393576a.jpg": "/cakes/static/media/bdaycake.d393576a.jpg",
+    "static/media/cover_small.d77c65e0.jpg": "/cakes/static/media/cover_small.d77c65e0.jpg",
+    "static/media/cupcakes.f5f3676f.jpg": "/cakes/static/media/cupcakes.f5f3676f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fea04d19.js",
     "static/js/2.6405c48a.chunk.js",
-    "static/css/main.6c5f0488.chunk.css",
-    "static/js/main.f6dfb71c.chunk.js"
+    "static/css/main.651896c2.chunk.css",
+    "static/js/main.959c7b24.chunk.js"
   ]
 }
