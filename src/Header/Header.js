@@ -6,13 +6,13 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <h1 className="header__logo">Cakes</h1>
+        <h1 className="header__logo">The Taste</h1>
       </div>
       <div className="header__center">
 
-        <h3> <Link style={{ textDecoration: 'none' }} to="/">Products</Link></h3>
-        <h3> <Link style={{ textDecoration: 'none' }} to="/order">Order</Link></h3>
-        <h3> <Link style={{ textDecoration: 'none' }} to="/about"> About</Link></h3>
+        <h3> <Link className="link" to="/">Gallery</Link></h3>
+        <h3> <Link className="link" to="/order">Recipes</Link></h3>
+        <h3> <Link className="link" to="/about"> About</Link></h3>
       </div>
       <div className="header__right">
         <p>social media</p>

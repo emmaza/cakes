@@ -6,8 +6,8 @@
 }
 
 .productCard > img {
-    width: 200px;
     height: 300px;
+    width: 300px;
     object-fit: cover;
     border-color: rgba(255, 255, 255, 0.911);
     border-radius: 10px;

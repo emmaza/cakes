@@ -1,4 +1,7 @@
 .footer {
-    padding-inline: 200px;
-    margin-bottom: 10px;
+    padding-block: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: rgba(35, 82, 35, 0.219);
 }
