@@ -5,8 +5,7 @@ import React from 'react'
 function Order() {
     return (
         <div className="order">
-            <h4>Order: </h4>
-            <p> weChat </p>
+            <p> coming soon... </p>
         </div>
     )
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
 .header {
   display: flex;
   align-items: center;
@@ -7,12 +9,15 @@
   top: 0;
   z-index: 100;
   background-color: white;
+  color: rgb(35, 82, 35);
+
 }
 
-/* .header__logo {
-  height: 25px;   
-  object-fit: contain;
-} */
+.header__logo {
+  /* height: 25px;   
+  object-fit: contain; */
+  font-family: 'Playball', cursive;
+} 
 
 .header__center {
   font-weight: bold;
@@ -26,6 +31,14 @@
   margin-right: 20px;
 }
 
+.link {
+  color: rgb(35, 82, 35);
+  text-decoration: none;
+}
+
+.link:hover {
+  color: rgb(54, 126, 72);
+}
 
 .header__right {
   display: flex;
