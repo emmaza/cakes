@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/cakes/static/css/main.1e15955f.chunk.css",
-    "main.js": "/cakes/static/js/main.2a4791e3.chunk.js",
-    "main.js.map": "/cakes/static/js/main.2a4791e3.chunk.js.map",
-    "runtime-main.js": "/cakes/static/js/runtime-main.fea04d19.js",
-    "runtime-main.js.map": "/cakes/static/js/runtime-main.fea04d19.js.map",
-    "static/js/2.6405c48a.chunk.js": "/cakes/static/js/2.6405c48a.chunk.js",
-    "static/js/2.6405c48a.chunk.js.map": "/cakes/static/js/2.6405c48a.chunk.js.map",
-    "static/js/3.20a26b35.chunk.js": "/cakes/static/js/3.20a26b35.chunk.js",
-    "static/js/3.20a26b35.chunk.js.map": "/cakes/static/js/3.20a26b35.chunk.js.map",
+    "main.css": "/cakes/static/css/main.cd5ded26.chunk.css",
+    "main.js": "/cakes/static/js/main.6af42792.chunk.js",
+    "main.js.map": "/cakes/static/js/main.6af42792.chunk.js.map",
+    "runtime-main.js": "/cakes/static/js/runtime-main.0e54a2a8.js",
+    "runtime-main.js.map": "/cakes/static/js/runtime-main.0e54a2a8.js.map",
+    "static/js/2.be822ddc.chunk.js": "/cakes/static/js/2.be822ddc.chunk.js",
+    "static/js/2.be822ddc.chunk.js.map": "/cakes/static/js/2.be822ddc.chunk.js.map",
+    "static/js/3.191a4c58.chunk.js": "/cakes/static/js/3.191a4c58.chunk.js",
+    "static/js/3.191a4c58.chunk.js.map": "/cakes/static/js/3.191a4c58.chunk.js.map",
     "index.html": "/cakes/index.html",
-    "static/css/main.1e15955f.chunk.css.map": "/cakes/static/css/main.1e15955f.chunk.css.map",
-    "static/js/2.6405c48a.chunk.js.LICENSE.txt": "/cakes/static/js/2.6405c48a.chunk.js.LICENSE.txt",
+    "static/css/main.cd5ded26.chunk.css.map": "/cakes/static/css/main.cd5ded26.chunk.css.map",
+    "static/js/2.be822ddc.chunk.js.LICENSE.txt": "/cakes/static/js/2.be822ddc.chunk.js.LICENSE.txt",
     "static/media/IMG_8647.8fbc2aa7.JPG": "/cakes/static/media/IMG_8647.8fbc2aa7.JPG",
     "static/media/bdaycake.d393576a.jpg": "/cakes/static/media/bdaycake.d393576a.jpg",
+    "static/media/clear-24px.53c9f4b6.svg": "/cakes/static/media/clear-24px.53c9f4b6.svg",
     "static/media/cover_small.963a71a1.jpg": "/cakes/static/media/cover_small.963a71a1.jpg",
-    "static/media/cupcakes.f5f3676f.jpg": "/cakes/static/media/cupcakes.f5f3676f.jpg"
+    "static/media/cupcakes.f5f3676f.jpg": "/cakes/static/media/cupcakes.f5f3676f.jpg",
+    "static/media/menu-24px.501536c5.svg": "/cakes/static/media/menu-24px.501536c5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fea04d19.js",
-    "static/js/2.6405c48a.chunk.js",
-    "static/css/main.1e15955f.chunk.css",
-    "static/js/main.2a4791e3.chunk.js"
+    "static/js/runtime-main.0e54a2a8.js",
+    "static/js/2.be822ddc.chunk.js",
+    "static/css/main.cd5ded26.chunk.css",
+    "static/js/main.6af42792.chunk.js"
   ]
 }
