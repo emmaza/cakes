@@ -1,5 +1,18 @@
 @import "~react-image-gallery/styles/css/image-gallery.css";
 
+.cover {
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+    display: flex;
+    text-align: center;
+}
+
+.cover_div {
+    max-width: 1000px;
+    margin: auto;
+}
+
 /* .cover > img {
     max-height: 500px;
     width: 100%;
@@ -7,12 +20,12 @@
     display: flex;
     align-items: center;
 }
-
+*/
 @media screen and (max-width: 800px) {
     .cover {
-    height: 200px;
+    width: 100%;
     }
-} */
+} 
 
 /* .cover > p {
     font-family: fantasy;
