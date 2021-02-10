@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cakes/static/css/main.9f57507f.chunk.css",
-    "main.js": "/cakes/static/js/main.75e2a213.chunk.js",
-    "main.js.map": "/cakes/static/js/main.75e2a213.chunk.js.map",
+    "main.css": "/cakes/static/css/main.8f59ccab.chunk.css",
+    "main.js": "/cakes/static/js/main.ced32b08.chunk.js",
+    "main.js.map": "/cakes/static/js/main.ced32b08.chunk.js.map",
     "runtime-main.js": "/cakes/static/js/runtime-main.31214424.js",
     "runtime-main.js.map": "/cakes/static/js/runtime-main.31214424.js.map",
     "static/css/2.ea11fe1c.chunk.css": "/cakes/static/css/2.ea11fe1c.chunk.css",
@@ -12,31 +12,25 @@
     "static/js/3.cea3f6e1.chunk.js.map": "/cakes/static/js/3.cea3f6e1.chunk.js.map",
     "index.html": "/cakes/index.html",
     "static/css/2.ea11fe1c.chunk.css.map": "/cakes/static/css/2.ea11fe1c.chunk.css.map",
-    "static/css/main.9f57507f.chunk.css.map": "/cakes/static/css/main.9f57507f.chunk.css.map",
+    "static/css/main.8f59ccab.chunk.css.map": "/cakes/static/css/main.8f59ccab.chunk.css.map",
     "static/js/2.3e804d85.chunk.js.LICENSE.txt": "/cakes/static/js/2.3e804d85.chunk.js.LICENSE.txt",
     "static/media/IMG_8647.8fbc2aa7.JPG": "/cakes/static/media/IMG_8647.8fbc2aa7.JPG",
-    "static/media/a.62436513.jpg": "/cakes/static/media/a.62436513.jpg",
-    "static/media/b.e89dcc44.jpg": "/cakes/static/media/b.e89dcc44.jpg",
-    "static/media/bdaycake.09eefe74.JPG": "/cakes/static/media/bdaycake.09eefe74.JPG",
+    "static/media/a.e89dcc44.jpg": "/cakes/static/media/a.e89dcc44.jpg",
+    "static/media/b.62436513.jpg": "/cakes/static/media/b.62436513.jpg",
+    "static/media/bdaycake.c6aac8b5.jpg": "/cakes/static/media/bdaycake.c6aac8b5.jpg",
     "static/media/c.487b0217.JPG": "/cakes/static/media/c.487b0217.JPG",
     "static/media/clear-24px.53c9f4b6.svg": "/cakes/static/media/clear-24px.53c9f4b6.svg",
     "static/media/cupcakes.f5f3676f.jpg": "/cakes/static/media/cupcakes.f5f3676f.jpg",
     "static/media/d.9ba3d3ff.JPG": "/cakes/static/media/d.9ba3d3ff.JPG",
     "static/media/e.b5482680.JPG": "/cakes/static/media/e.b5482680.JPG",
-    "static/media/f-0.e8dfe029.JPG": "/cakes/static/media/f-0.e8dfe029.JPG",
-    "static/media/f-1.b610cf7e.jpg": "/cakes/static/media/f-1.b610cf7e.jpg",
-    "static/media/f-2.3140bab3.JPG": "/cakes/static/media/f-2.3140bab3.JPG",
-    "static/media/f-3.9ce8597b.JPG": "/cakes/static/media/f-3.9ce8597b.JPG",
-    "static/media/f-4.7206590d.JPG": "/cakes/static/media/f-4.7206590d.JPG",
     "static/media/f.3c99f1d7.JPG": "/cakes/static/media/f.3c99f1d7.JPG",
-    "static/media/menu-24px.501536c5.svg": "/cakes/static/media/menu-24px.501536c5.svg",
-    "static/media/thum_f.cadb7807.jpg": "/cakes/static/media/thum_f.cadb7807.jpg"
+    "static/media/menu-24px.501536c5.svg": "/cakes/static/media/menu-24px.501536c5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.31214424.js",
     "static/css/2.ea11fe1c.chunk.css",
     "static/js/2.3e804d85.chunk.js",
-    "static/css/main.9f57507f.chunk.css",
-    "static/js/main.75e2a213.chunk.js"
+    "static/css/main.8f59ccab.chunk.css",
+    "static/js/main.ced32b08.chunk.js"
   ]
 }
