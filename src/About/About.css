@@ -1,6 +1,8 @@
 .about {
     display: inline-flexbox;
+    font-style: italic;
     align-items: center;
     padding-inline: 200px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    height: 100%;
 }

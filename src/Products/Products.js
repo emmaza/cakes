@@ -1,7 +1,7 @@
 import React from 'react';
 import ProductCard from './ProductCard';
 import img1 from '../images/IMG_8647.JPG';
-import bdaycake from '../images/bdaycake.JPG';
+import bdaycake from '../images/bdaycake.jpg';
 import Cupcakes from '../images/cupcakes.jpg';
 import './Products.css';
 

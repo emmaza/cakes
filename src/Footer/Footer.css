@@ -1,7 +1,15 @@
 .footer {
-    padding-block: 10px;
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 100%;
+    height: 2.5rem;
     background-color: rgba(35, 82, 35, 0.219);
+    position: absolute;
+    bottom:0;
+}
+
+.footer > p {
+    display: flex;
+    position: center;
 }
