@@ -3,4 +3,7 @@
     margin: auto;
     text-align: center;
     vertical-align: baseline;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 2.5rem;
 }

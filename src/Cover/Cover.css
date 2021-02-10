@@ -1,16 +1,32 @@
-.cover > img {
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.cover {
+    width: 80%;
+    height: auto;
+    object-fit: contain;
+    display: flex;
+    text-align: center;
+}
+
+.cover_div {
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+/* .cover > img {
     max-height: 500px;
     width: 100%;
     object-fit: cover;
     display: flex;
     align-items: center;
 }
-
+*/
 @media screen and (max-width: 800px) {
     .cover {
-    height: 200px;
+    width: 100%;
     }
-}
+} 
 
 /* .cover > p {
     font-family: fantasy;
